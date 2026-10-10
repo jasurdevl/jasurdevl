@@ -1,7 +1,7 @@
 <h1 align="center">Salom, men Jasur! 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="blob:https://gemini.google.com/6b6445be-379c-452c-aeed-268745ca411a" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-O'qishda_va_Kod_yozishda-success?style=flat-square" alt="Status" />
 </p>
 
